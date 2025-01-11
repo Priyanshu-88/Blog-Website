@@ -3,7 +3,10 @@
 
 Features:
 
-1.Diverse Blog Categories: The website offers articles on various topics, including technology, nutrition, travel, productivity, mindfulness, home decor, sustainability, and positivity.
+1.Diverse Blog Categories: The website offers articles on various topics, including technology, nutrition, travel, productivity, mindfulness, home decor, sustainability, and positivity. 
+
 2.Author Information: Each blog post includes the author's name and publication date, providing context and credibility to the content.
+
 3.About Section: The website features an "About" section introducing Priyanshu Kumar Singh, the creator of TUF Blogs, sharing his passions and the purpose behind the blog.
+
 4.Contact Information: A "Contact Us" section is available, allowing readers to reach out for inquiries or further engagement
