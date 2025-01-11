@@ -29,5 +29,5 @@ CSS: For styling the pages and making them visually appealing.
 
 5.Speed Optimization: Optimize images and minify CSS/JS files for faster loading.
 
-Feel free to explore the project, contribute, and provide feedback. Stay tuned for upcoming features and enhancements!
+**Feel free to explore the project, contribute, and provide feedback. Stay tuned for upcoming features and enhancements!
 
