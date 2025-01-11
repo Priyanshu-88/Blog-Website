@@ -13,43 +13,26 @@ Features:
 
 tufblogs/
 
-│
-
 ├── index.html          # The homepage displaying a list of blogs
-
 ├── about.html          # About page introducing the author and purpose
-
 ├── contact.html        # Contact page for inquiries and feedback
-
 ├── blog-details.html   # Template for individual blog post details
-
 │
-
 ├── css/
+   ├── style.css       # Main CSS file for the entire website
+   └── responsive.css  # Optional file for future responsiveness (if added)
 
-│   ├── style.css       # Main CSS file for the entire website
-
-│   └── responsive.css  # Optional file for future responsiveness (if added)
-
-│
 ├── images/
+   ├── logo.png        # Website logo
+   ├── banner.jpg      # Homepage or category banner
+   ├── author.jpg      # About section image
+   ├── blog1.jpg       # Blog-specific images
+   └── blog2.jpg       # More images for various blogs
 
-│   ├── logo.png        # Website logo
-
-│   ├── banner.jpg      # Homepage or category banner
-
-│   ├── author.jpg      # About section image
-
-│   ├── blog1.jpg       # Blog-specific images
-
-│   └── blog2.jpg       # More images for various blogs
-
-│
-
-│
+├── js/
+   └── script.js       # JavaScript for any interactivity (optional)
 
 └── assets/
-
     ├── fonts/          # Custom fonts (if any)
-    
     └── icons/          # Icon files for social media or other elements
+
